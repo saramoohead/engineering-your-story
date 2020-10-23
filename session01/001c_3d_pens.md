@@ -1,27 +1,35 @@
 # 3d pens
 
-![Diagaram of a 3d pen](assets/HowDo3dPensWork.jpg)
+![Picture of a Polaroid 3d pen](./../assets/PolaroidPlayPen.png)
 
 This is a 3d pen.
 
 You are going to learn to draw with it.
 
-It is not easy, and it will take practice. Please be patient with it and with yourselves.
+## How it works
 
-The most important thing is to **never** touch the nozzle or the plastic near the nozzle. **It is hot and could burn you.**
+An engineer wants to know how things work.
+
+![Diagaram of a 3d pen](./../assets/HowDo3dPensWork.jpg)
+
+Drawing with a 3d pen is not easy, and it will take practice. Whenever you are trying to learn, please be patient with it and with yourselves.
+
+### WARNING
+
+**Never** touch the nozzle or the plastic near the nozzle. **It is hot and could burn you.**
 
 The plastic is already loaded and you will learn how to change it later. But first, let me show you what it can do.
 
 DEMO VIDEO TK. (From too far, too fast, with stray plastic, how to finish it off)
 
-It uses a motor that needs electricity to turn. Plug it in to your computer, via the usb cord. Everybody got theirs plugged in?
-
-Prop of pen:
+Look at your pen:
 * On button, also off
 * Extrude button, also retract
 * Plastic goes in the top and comes out of the nozzle when it melts.
 * It takes a few seconds to solidify, but then it is strong.
 * It is magical engineering!
+
+The gears that push the plastic through the pen use a motor that needs electricity to turn. Plug it in to your computer, via the usb cord. Everybody got theirs plugged in?
 
 Now we're going to turn it on. The plastic won't come out yet. It's just going to heat up.
 
@@ -36,3 +44,5 @@ Now that you've had a little bit of practice, you're going to make a 3D shape ou
 EXPLANATION TK
 
 * Tree
+
+## End of session 1

@@ -18,4 +18,4 @@ Engineering Your Story is possible only because of the generous Engineering Educ
 
 The IET is celebrating 150 years in 2020 and is looking to celebrate and inspire difference makers. I hope Engineering Your Story encourages its participants to go on to make a difference.
 
-## [Start the course](session01/001_intro)
+## [Start the course](session01/001_session_01)

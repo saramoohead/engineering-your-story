@@ -4,10 +4,10 @@ We are going to start off with a big question.
 
 ## Link: [Who gets to be an engineer?](001a_who_gets_to_be_an_engineer)
 
-## Video: What is engineering? from Crash Course (edited)
+## Video: What is engineering? from Crash Course
 
 ![What is engineering from Crash Course](../assets/CrashCourseWhatIsEngineering.png)
-Source: https://www.youtube.com/watch?v=btGYcizV0iI
+Edited from source: [https://www.youtube.com/watch?v=btGYcizV0iI](https://www.youtube.com/watch?v=btGYcizV0iI)
 
 But, I hear you think, maths! Maths is hard. I'm not good at maths. What do I need maths for?
 
@@ -25,21 +25,14 @@ Have you made a scary character? A hero character? A gentle and kind character? 
 Art uses a lot of different types of maths.  The first maths element that we are going to explore is shapes and shape theory. Shape theory is the idea that your character's shape has a huge part to play in how people will perceive it.
 
 ![Saultoons Shape Theory video](../assets/SaultoonsShapeTheory.png)
-Source: https://www.youtube.com/watch?v=6gDzO9fZS0o
+Source: [https://www.youtube.com/watch?v=6gDzO9fZS0o](https://www.youtube.com/watch?v=6gDzO9fZS0o)
 
 I'd like you to experiment with the shapes of your characters. Using the spare paper, see if you can exaggerate some of the shapes of your character.
 
 * 5 minutes for drawing
 
-PROPORTIONS/BALANCE VIDEO? DIAGRAM?
-
-Another part of art maths is proportions, ratios, balance.
-NEED MORE HERE Video? Need a character to not fall over.
-
 Now, to sculpt them!
 
-Keep in mind: exaggerated shapes balanced by proportions. You are going to make these characters into 3D prints.
+* 15 minutes for sculpting
 
-* 20 minutes for sculpting
-
-# [Onwards](003_3d_pens.md)
+# [Onwards](001c_3d_pens.md)
