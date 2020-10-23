@@ -2,15 +2,14 @@
 
 We are going to start off with a big question.
 
-## [Who gets to be an engineer?](001a_who_gets_to_be_an_engineer)
+## Link: [Who gets to be an engineer?](001a_who_gets_to_be_an_engineer)
 
-What is engineering video from Crash Course
+## Video: What is engineering? from Crash Course (edited)
 
-You might be thinking -- I'm not good at maths.
+![What is engineering from Crash Course](../assets/CrashCourseWhatIsEngineering.png)
+Source: https://www.youtube.com/watch?v=btGYcizV0iI
 
-But, I hear you think, maths! Maths is hard.
-
-And to that I say...
+But, I hear you think, maths! Maths is hard. I'm not good at maths. What do I need maths for?
 
 - Did you know that sports needs maths?
 - And being a firefighter or a doctor needs maths?
@@ -21,4 +20,26 @@ We're going to look at some of the maths that drawing needs in relations to your
 
 Have you made a scary character? A hero character? A gentle and kind character? Well, the way a character looks uses maths.
 
-## [Character design uses geometry.](002_character_design)
+## Character design uses geometry
+
+Art uses a lot of different types of maths.  The first maths element that we are going to explore is shapes and shape theory. Shape theory is the idea that your character's shape has a huge part to play in how people will perceive it.
+
+![Saultoons Shape Theory video](../assets/SaultoonsShapeTheory.png)
+Source: https://www.youtube.com/watch?v=6gDzO9fZS0o
+
+I'd like you to experiment with the shapes of your characters. Using the spare paper, see if you can exaggerate some of the shapes of your character.
+
+* 5 minutes for drawing
+
+PROPORTIONS/BALANCE VIDEO? DIAGRAM?
+
+Another part of art maths is proportions, ratios, balance.
+NEED MORE HERE Video? Need a character to not fall over.
+
+Now, to sculpt them!
+
+Keep in mind: exaggerated shapes balanced by proportions. You are going to make these characters into 3D prints.
+
+* 20 minutes for sculpting
+
+# [Onwards](003_3d_pens.md)
