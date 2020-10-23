@@ -2,7 +2,7 @@
 
 We are going to start off with a big question.
 
-## [Who gets to be an engineer?](./001_a_who_gets_to_be_an_engineer.md)
+## [Who gets to be an engineer?](001a_who_gets_to_be_an_engineer)
 
 What is engineering video from Crash Course
 
@@ -21,4 +21,4 @@ We're going to look at some of the maths that drawing needs in relations to your
 
 Have you made a scary character? A hero character? A gentle and kind character? Well, the way a character looks uses maths.
 
-## [Character design uses geometry.](002_character_design.md)
+## [Character design uses geometry.](002_character_design)
