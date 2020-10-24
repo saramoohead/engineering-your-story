@@ -2,7 +2,7 @@
 
 ![Picture of a Polaroid 3d pen](./../assets/PolaroidPlayPen.png)
 
-This is a 3d pen.
+This is a Polaroid Play 3d pen.
 
 You are going to learn to draw with it.
 
@@ -11,6 +11,7 @@ You are going to learn to draw with it.
 An engineer wants to know how things work.
 
 ![Diagaram of a 3d pen](./../assets/HowDo3dPensWork.jpg)
+Source: [https://3dpenhub.com/3d-pens-how-do-they-work/](https://3dpenhub.com/3d-pens-how-do-they-work/)
 
 Drawing with a 3d pen is not easy, and it will take practice. Whenever you are trying to learn, please be patient with it and with yourselves.
 
@@ -35,9 +36,8 @@ Now we're going to turn it on. The plastic won't come out yet. It's just going t
 
 Because this is melting plastic, you need to melt it onto a surface that you can remove it from. If you melt the plastic onto paper, the plastic will bond with the paper, like glue, and your creation will not come off easily.
 
-* Practice on the stencil
-* Close squiggle lines
-* Draw a square, and fill in
+* Practice the squiggling! [Stencil from 3D Doodler](https://learn.the3doodler.com/stencils/lettering-practice/)
+*
 
 Now that you've had a little bit of practice, you're going to make a 3D shape out of 2D shapes.
 
@@ -46,3 +46,5 @@ EXPLANATION TK
 * Tree
 
 ## End of session 1
+
+ [Session list](session_list)
