@@ -39,12 +39,8 @@ Because this is melting plastic, you need to melt it onto a surface that you can
 * Practice the squiggling! [Stencil from 3D Doodler](https://learn.the3doodler.com/stencils/lettering-practice/)
 *
 
-Now that you've had a little bit of practice, you're going to make a 3D shape out of 2D shapes.
-
-EXPLANATION TK
-
-* Tree
+Now that you've had a little bit of practice, try doing the first letter of your name, or even your whole name.
 
 ## End of session 1
 
- [Session list](session_list)
+ [Session list](../session_list)
