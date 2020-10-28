@@ -43,4 +43,4 @@ Now that you've had a little bit of practice, try doing the first letter of your
 
 ## End of session 1
 
- [Session list](../session_list)
+[Session list](../session_list)
