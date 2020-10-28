@@ -1,11 +1,15 @@
 ## Tinkercad introduction
 
-- Add objects to workplane
-- Remove objects from workplane
-- Move view around workplane (use die)
-- Groups objects in workplane
-- Ungroup objects in workplane
-- Hole/empty objects to cut away
-- No gaps
+We are going to work through the first steps of using Tinkercad together:
 
- [Session list](../session_list)
+![Tinkercad Tutorials](../assets/TinkercadTutorials.png)
+
+https://www.tinkercad.com/learn/project-gallery;collectionId=OPC41AJJKIKDWDV
+
+## Make a die with your own text
+
+![Tinkercad Die](../assets/TinkercadDie.png)
+
+You use placing, resizing, text bars, holes and grouping.
+
+[Session list](../session_list)
