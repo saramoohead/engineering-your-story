@@ -38,8 +38,8 @@ Because this is melting plastic, you need to melt it onto a surface that you can
 
 * Practice the squiggling! [Stencil from 3D Doodler](https://learn.the3doodler.com/stencils/lettering-practice/)
 
-Now that you've had a little bit of practice, try doing the first letter of your name, or even your whole name. Tip: do the outline of the letter first, then fill in using "lawnmower lines".
+Now that you've had some practice, try doing the first letter of your name, or even your whole name. Tip: do the outline of the letter first, then fill in using "lawnmower lines".
 
-## End of session 1
+# End of session 1
 
 [Session list](../session_list)

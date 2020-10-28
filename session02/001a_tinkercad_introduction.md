@@ -1,4 +1,6 @@
-## Tinkercad introduction
+# Tinkercad introduction
+
+## Tinkercad tutorials
 
 We are going to work through the first steps of using Tinkercad together:
 
@@ -10,6 +12,8 @@ https://www.tinkercad.com/learn/project-gallery;collectionId=OPC41AJJKIKDWDV
 
 ![Tinkercad Die](../assets/TinkercadDie.png)
 
-You use placing, resizing, text bars, holes and grouping.
+You'll use placing, resizing, text bars, holes and grouping.
+
+* 20 minutes
 
 [Session list](../session_list)
