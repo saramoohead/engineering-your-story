@@ -6,7 +6,7 @@ We are going to work through the first steps of using Tinkercad together:
 
 ![Tinkercad Tutorials](../assets/TinkercadTutorials.png)
 
-https://www.tinkercad.com/learn/project-gallery;collectionId=OPC41AJJKIKDWDV
+[https://www.tinkercad.com/learn/project-gallery;collectionId=OPC41AJJKIKDWDV](https://www.tinkercad.com/learn/project-gallery;collectionId=OPC41AJJKIKDWDV)
 
 ## Make a die with your own text
 
