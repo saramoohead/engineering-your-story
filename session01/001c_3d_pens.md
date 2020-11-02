@@ -1,10 +1,6 @@
 # 3d pens
 
-![Picture of a Polaroid 3d pen](./../assets/PolaroidPlayPen.png)
-
-This is a Polaroid Play 3d pen.
-
-You are going to learn to draw with it.
+You are going to learn to draw with a 3D pen.
 
 ## How it works
 
@@ -19,7 +15,10 @@ Drawing with a 3d pen is not easy, and it will take practice. Whenever you are t
 
 **Never** touch the nozzle or the plastic near the nozzle. **It is hot and could burn you.**
 
-Look at your pen:
+![Picture of a Polaroid 3d pen](./../assets/PolaroidPlayPen.png)
+
+This is a Polaroid Play 3d pen.
+
 * On button, also off
 * Extrude button, also retract
 * Plastic goes in the top and comes out of the nozzle when it melts.
@@ -33,8 +32,6 @@ The gears that push the plastic through the pen use a motor that needs electrici
 We need to load in the PLA filament, and to do that the pen needs to be turned on and warmed up. When the light is red, it's heating up. When it's blue, it's ready to go.
 
 Make sure you've got a sharp end of your filament, make sure it's not been previously melted. If it has a melted end, get a grown up to cut the end with a pair of scissors.
-
-Because this is melting plastic, you need to melt it onto a surface that you can remove it from. If you melt the plastic onto paper, the plastic will bond with the paper, like glue, and your creation will not come off easily.
 
 * Practice the squiggling! [Stencil from 3D Doodler](https://learn.the3doodler.com/stencils/lettering-practice/)
 
