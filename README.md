@@ -1,4 +1,4 @@
-# engineering-your-story
+# Engineering Your Story
 
 ![Engineering Your Story logo](assets/LogoTheFourthLong.png)
 

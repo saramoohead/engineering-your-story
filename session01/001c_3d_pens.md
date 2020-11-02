@@ -33,6 +33,13 @@ We need to load in the PLA filament, and to do that the pen needs to be turned o
 
 Make sure you've got a sharp end of your filament, make sure it's not been previously melted. If it has a melted end, get a grown up to cut the end with a pair of scissors.
 
+Some tips:
+
+* Closeness
+* Speed
+* Anchoring
+* Direction/Rotating
+
 * Practice the squiggling! [Stencil from 3D Doodler](https://learn.the3doodler.com/stencils/lettering-practice/)
 
 Now that you've had some practice, try doing the first letter of your name, or even your whole name. Tip: do the outline of the letter first, then fill in using "lawnmower lines".
