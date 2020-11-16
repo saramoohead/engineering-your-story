@@ -44,7 +44,9 @@ Once the light turns blue, the pen is hot enough, and we can load in the PLA fil
 
 * Practice the squiggling! [Stencil from 3D Doodler](https://learn.the3doodler.com/stencils/lettering-practice/)
 
-Now that you've had some practice, try doing the first letter of your name, or even your whole name. Tip: do the outline of the letter first, then fill in using "lawnmower lines".
+Once you've had some practice, try doing the first letter of your name, or even your whole name. Tip: do the outline of the letter first, then fill in using "lawnmower lines".
+
+![3D pen introduction stencil](../assets/Stencil_LetteringPractice_EYS_small.jpg)
 
 # End of session 1
 
