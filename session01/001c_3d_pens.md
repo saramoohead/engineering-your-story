@@ -19,26 +19,28 @@ Drawing with a 3d pen is not easy, and it will take practice. Whenever you are t
 
 This is a Polaroid Play 3d pen.
 
-* On button, also off
-* Extrude button, also retract
-* Plastic goes in the top and comes out of the nozzle when it melts.
+* Plastic goes in the top and **extrudes** or comes out of the nozzle when it melts.
 * It takes a few seconds to solidify, but then it is strong.
 * It is magical engineering!
 
-Some tips:
+Some essential techniques:
 
 * Closeness
 * Speed
 * Anchoring
 * Direction/Rotating
 
+The core principle: you're after big thick blobby lines.
+
 ## Let's get started
 
 The gears that push the plastic through the pen use a motor that needs electricity to turn. So, now is the time to plug it in to your computer, via the usb cord. Everybody got theirs plugged in?
 
-We need to load in the PLA filament, and to do that the pen needs to be turned on and warmed up. When the light is red, it's heating up. When it's blue, it's ready to go.
+You should see a red light, which means it's heating up.
 
 Make sure you've got a sharp end of your filament, make sure it's not been previously melted. If it has a melted end, get a grown up to cut the end with a pair of scissors.
+
+Once the light turns blue, the pen is hot enough, and we can load in the PLA filament by pressing the extrude button.
 
 * Practice the squiggling! [Stencil from 3D Doodler](https://learn.the3doodler.com/stencils/lettering-practice/)
 

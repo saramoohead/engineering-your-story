@@ -1,1 +1,2 @@
-Intro: this is new to me too
+Continuation of step by step screenshots
+
