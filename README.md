@@ -5,14 +5,15 @@
 ## What is Engineering Your Story?
 “Engineering Your Story” is a free, six-session programme for children in Year 6 to learn about 3D and computer-aided-design (CAD) technology through imagination.
 
-You’ll start with paper, clay and 3D pens to experiment with shapes and dimensions.
-Then you’ll use 3D software Tinker CAD to create a character that will be 3D printed for you to take home. You’ll also try out a more challenging software tool called Blender that professionals use.
+You’ll start with paper, clay and 3D pens to experiment with shapes and dimensions. Then you’ll use 3D software Tinker CAD to create a character that will be 3D printed for you to take home. You’ll also try out a more challenging software tool called Blender that professionals use.
 
 Engineering Your Story wants to teach you to use technology to fuel your
 imagination and help you engineer the story of your future, opening you up to
 careers in engineering, animation, design and computing.
 
 Engineering Your Story is possible only because of the generous Engineering Education Grant Scheme from the Institution of Engineering and Technology (theiet.org) and Institution of Mechanical Engineers (imeche.org).
+
+Sign up for our mailing list, to hear about new, free creative technology education for young people in Bucks: [https://mailchi.mp/59e1762660ff/engineering-your-story-newsletter-sign-up](https://mailchi.mp/59e1762660ff/engineering-your-story-newsletter-sign-up)
 
 ![IET and IMechE logos](assets/IET_IMechE_logo.png)
 
