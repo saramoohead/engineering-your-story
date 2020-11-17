@@ -6,5 +6,5 @@
 ## [Session 02](session02/001.md) - Introduction to Tinkercad and characters with 3D pens
 ## [Session 03](session03/001.md) - Dice in Tinkercad and making 3D with 3D pens
 ## [Session 04](session04/001.md) - Avatar in Tinkercad
-## [Session 05](session05/001.md) - Characters in Tinkercad
+## [Session 05](session05/001.md) - From your mind to a 3D printer
 ## [Session 06](session06/001.md) - Introduction to Blender, engineering presentation, student presentations
