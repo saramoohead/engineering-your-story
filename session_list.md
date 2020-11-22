@@ -8,3 +8,5 @@
 ## [Session 04](session04/001.md) - Avatar in Tinkercad
 ## [Session 05](session05/001.md) - From your mind to a 3D printer
 ## [Session 06](session06/001.md) - Introduction to Blender, engineering presentation, student presentations
+
+## [Tinkercad shape generators list](tinkercad/tinkercad_shape_generators_list)
