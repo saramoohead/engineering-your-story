@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "gallery.css",
+	"sources": [
+		"gallery.scss"
+	],
+	"sourcesContent": [
+		"$default-width: 50%;\n\n* {\n  -webkit-box-sizing: border-box;\n     -moz-box-sizing: border-box;\n          box-sizing: border-box;\n}\n\n/* force scrollbar, prevents initial gap */\nhtml {\n  overflow-y: scroll;\n}\n\n.image-wrapper,\n.gallery-sizer {\n  width: $default-width;\n}\n\n.image-gallery {\n\n  display: block;\n\n  .image-wrapper {\n    float: left;\n    padding: 3px;\n\n    // hack required if no padding\n    .image {\n      width: 100.1%;\n      width: calc( 100% + 1px );\n      height: 100%;\n    }\n  }\n\n  &:after {\n    content: '';\n    display: block;\n    clear: both;\n  }\n}\n\n.caption {\n  position: static;\n  color: #AAA;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,CAAC,CAAC,EACA,kBAAkB,EAAE,UAAU,EAC3B,eAAe,EAAE,UAAU,EACtB,UAAU,EAAE,UAAU,GAC/B;;AAED,2CAA2C;AAC3C,AAAA,IAAI,CAAC,EACH,UAAU,EAAE,MAAM,GACnB;;AAED,AAAA,cAAc,EACd,cAAc,CAAC,EACb,KAAK,EAfS,GAAG,GAgBlB;;AAED,AAAA,cAAc,CAAC,EAEb,OAAO,EAAE,KAAK,GAmBf;;AArBD,AAIE,cAJY,CAIZ,cAAc,CAAC,EACb,KAAK,EAAE,IAAI,EACX,OAAO,EAAE,GAAG,GAQb;;AAdH,AASI,cATU,CAIZ,cAAc,CAKZ,MAAM,CAAC,EACL,KAAK,EAAE,MAAM,EACb,KAAK,EAAE,iBAAkB,EACzB,MAAM,EAAE,IAAI,GACb;;AAbL,AAgBE,cAhBY,CAgBV,KAAK,CAAC,EACN,OAAO,EAAE,EAAE,EACX,OAAO,EAAE,KAAK,EACd,KAAK,EAAE,IAAI,GACZ;;AAGH,AAAA,QAAQ,CAAC,EACP,QAAQ,EAAE,MAAM,EAChB,KAAK,EAAE,IAAI,GACZ"
+}
