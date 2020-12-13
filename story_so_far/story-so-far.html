@@ -57,6 +57,29 @@
             </a>
           </div>
         </div>
+
+        <script>
+          $(document).ready(function() {
+            var $gallery1 = $("#image-gallery-1").lightGallery({
+              thumbnail: false,
+              selector: '.image'
+            });
+          });
+
+          // init isotope
+          var $grid1 = $('#image-gallery-1').isotope({
+            percentPosition: true,
+            columnWidth: '#gallery-sizer-1',
+            itemSelector: '.image-wrapper',
+            layoutMode: "masonry"
+          });
+
+          // layout Isotope after each image loads
+          $grid1.imagesLoaded().progress( function() {
+            $grid1.masonry();
+          });
+
+        </script>
       </div>
     </div>
   </body>
