@@ -14,6 +14,10 @@ Engineering Your Story wants to teach you to use technology to fuel your imagina
 
 -- Christabel Bunce, Deputy Head at Elmhurst School
 
+"We cannot recommend Engineering Your Story enough! The programme completely energised and inspired the children in our school. They left each session buzzing! One child even said, “I want to do this all day.” The 3D prints that the children created and got to take home were fantastic and the course totally surpassed our expectations. The teachers were helpful, knowledgeable and passionate about the subject."
+
+-- Ed Tang, Deputy Head Teacher, Great Missenden C of E School
+
 ## Sign up!
 Sign up for our mailing list, to hear about new, free creative technology education for young people in Bucks: [https://mailchi.mp/59e1762660ff/engineering-your-story-newsletter-sign-up](https://mailchi.mp/59e1762660ff/engineering-your-story-newsletter-sign-up)
 
