@@ -20,7 +20,7 @@ Engineering Your Story wants to teach you to use technology to fuel your imagina
 
 ## What the Children Make
 
-![Young engineers](assets/MainImageWithQuote.png)
+[![3D prints made by children during the Engineering Your Story course](assets/MainImageWithQuote.png)](story_so_far)
 
 [See more in our Story So Far gallery](story_so_far)
 
