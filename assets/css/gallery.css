@@ -15,4 +15,8 @@ html { overflow-y: scroll; }
 
 .caption { position: static; color: #AAA; }
 
+.gallery-title { padding-left: 3px; }
+
+.gallery-subtitle { padding-left: 3px; }
+
 /*# sourceMappingURL=gallery.css.map */
