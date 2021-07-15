@@ -5,7 +5,7 @@
 ## Tinkercad Only
 ## [Tinkercad 01](tinkercad/001.md) - Character design and introduction to Tinkercad
 ## [Tinkercad 02](tinkercad/002.md) - Cube face in Tinkercad
-## [Tinkercad 03](tinkercad/003.md) - Character in Tinkercad
+## [Tinkercad 03](tinkercad/003.md) - From Tinkercad to the Printer
 
 ## Tinkercad and 3D pens
 ## [Session 01](session01/001.md) - Character design, sculpting and 3D pen introduction
