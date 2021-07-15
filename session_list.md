@@ -2,6 +2,12 @@
 
 ![Engineering Your Story logo](assets/LogoTheFourthLong.png)
 
+## Tinkercad Only
+## [Tinkercad 01](tinkercad/001.md) - Character design and introduction to Tinkercad
+## [Tinkercad 02](tinkercad/002.md) - Dice in Tinkercad
+## [Tinkercad 03](tinkercad/003.md) - Character in Tinkercad
+
+## Tinkercad and 3D pens
 ## [Session 01](session01/001.md) - Character design, sculpting and 3D pen introduction
 ## [Session 02](session02/001.md) - Introduction to Tinkercad and characters with 3D pens
 ## [Session 03](session03/001.md) - Dice in Tinkercad and making 3D with 3D pens
