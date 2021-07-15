@@ -4,7 +4,7 @@
 
 ## Tinkercad Only
 ## [Tinkercad 01](tinkercad/001.md) - Character design and introduction to Tinkercad
-## [Tinkercad 02](tinkercad/002.md) - Dice in Tinkercad
+## [Tinkercad 02](tinkercad/002.md) - Cube face in Tinkercad
 ## [Tinkercad 03](tinkercad/003.md) - Character in Tinkercad
 
 ## Tinkercad and 3D pens
