@@ -18,14 +18,15 @@ You’ll start with paper, clay and 3D pens to experiment with shapes and dimens
 
 -- Ed Tang, Deputy Head Teacher, Great Missenden C of E School
 
+"Engineering Your Story delivered a wonderful experience for our SEN children with moderate or complex learning needs. This course was exactly the kind of practical, future-career experiences that Willoughby Academy are determined to offer, and we couldn't believe how well the children were able to work with the 3D software and how much they enjoyed it."
+
+-- Evelyn Cox, Pastoral Manager, Willoughby Academy
+
 ## What the Children Make
 
 [![3D prints made by children during the Engineering Your Story course](assets/MainImageWithQuote.png)](story_so_far)
 
 [See more in our Story So Far gallery](story_so_far)
-
-## Sign up!
-Sign up for our mailing list, to hear about new, free creative technology education for young people in Bucks: [https://mailchi.mp/59e1762660ff/engineering-your-story-newsletter-sign-up](https://mailchi.mp/59e1762660ff/engineering-your-story-newsletter-sign-up)
 
 ## Engineering Education Grant Scheme
 Engineering Your Story is possible only because of the generous Engineering Education Grant Scheme from the Institution of Engineering and Technology (theiet.org) and Institution of Mechanical Engineers (imeche.org).
