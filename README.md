@@ -5,9 +5,11 @@
 ## What is Engineering Your Story?
 "Engineering Your Story" is a two, three or six-session programme for children in Year 4 and up to learn about 3D and computer-aided-design (CAD) technology through imagination.
 
-Engineering Your Story wants to teach you to use technology to fuel your imagination and help you engineer the story of your future, opening you up to careers in character creation, engineering, animation, design, computing and story telling.
+Engineering Your Story wants to teach young people to use technology to fuel their imaginations and help them engineer the story of their future, opening them up to careers in character creation, engineering, animation, design, computing and story telling.
 
-You’ll start with paper, clay and 3D pens to experiment with shapes and dimensions. Then you’ll use 3D software Tinker CAD to create a character that will be 3D printed for you to take home.
+Children will start with paper, clay and 3D pens to experiment with shapes and dimensions. Then they'll use 3D software Tinker CAD to create a character that will be 3D printed for them to take home.
+
+Engineering Your Story was created through a generous grant from the IET and iMechE and is run on a volunteer basis. Local Buckinghamshire schools and organisations can schedule the course on Fridays, where availability permits, and schools farther afield will have a condensed course and need to cover expenses.
 
 ## What the Teachers Say
 "I was so impressed with how Engineering Your Story taught our children, of all different abilities, and gave them confidence with technology they’d never used before. I especially appreciated how the experience was rooted in creativity and characterisation."
