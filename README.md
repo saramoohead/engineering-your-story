@@ -3,7 +3,7 @@
 ![Engineering Your Story logo](assets/LogoTheFourthLong.png)
 
 ## What is Engineering Your Story?
-"Engineering Your Story" is a free, six-session programme for children in Year 6 to learn about 3D and computer-aided-design (CAD) technology through imagination.
+"Engineering Your Story" is a two, three or six-session programme for children in Year 4 and up to learn about 3D and computer-aided-design (CAD) technology through imagination.
 
 Engineering Your Story wants to teach you to use technology to fuel your imagination and help you engineer the story of your future, opening you up to careers in character creation, engineering, animation, design, computing and story telling.
 
