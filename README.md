@@ -43,3 +43,5 @@ Contact us on engineeringyourstory@gmail.com.
 Engineering Your Story is run by [Sara O'Connor](https://github.com/saramoohead) with [Adam Hoyle](https://github.com/atomoil).
 
 ## [All course materials](session_list)
+
+<a href="assets/QuizTemplate.sb3">Scratch quiz template to download</a>
