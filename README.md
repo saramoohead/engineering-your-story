@@ -45,3 +45,4 @@ Engineering Your Story is run by [Sara O'Connor](https://github.com/saramoohead)
 ## [All course materials](session_list)
 
 <a href="assets/QuizTemplate.sb3">Scratch quiz template to download</a>
+[Scratch quize template link](https://scratch.mit.edu/projects/896590516/)
