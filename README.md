@@ -44,7 +44,7 @@ Engineering Your Story is run by [Sara O'Connor](https://github.com/saramoohead)
 
 ## [All course materials](session_list)
 
-<a href="assets/L1_Web_page_creation_SOC.pdf">Lesson 1 Good Website</a>
+<a href="assets/L2_Slides_Web_page_creation_SOC.pdf">Lesson 2 Make Website</a>
 <a href="assets/QuizTemplate.sb3">Scratch quiz template to download</a>
 [Scratch quiz template link](https://scratch.mit.edu/projects/896590516/)
 [Scratch animation template link](https://scratch.mit.edu/projects/900030524/)
