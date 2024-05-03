@@ -44,7 +44,7 @@ Engineering Your Story is run by [Sara O'Connor](https://github.com/saramoohead)
 
 ## [All course materials](session_list)
 
-<a href="assets/Game_Development.pdf">Game Development</a>
+<a href="assets/Final_Instructions.pdf">Young Coder Instructions</a>
 <a href="assets/QuizTemplate.sb3">Scratch quiz template to download</a>
 [Scratch quiz template link](https://scratch.mit.edu/projects/896590516/)
 [Scratch animation template link](https://scratch.mit.edu/projects/900030524/)
